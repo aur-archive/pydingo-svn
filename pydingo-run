@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+
+cd /usr/lib/pydingo && python2 run.py
